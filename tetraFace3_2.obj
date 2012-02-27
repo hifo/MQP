@@ -1,0 +1,20 @@
+# This file uses centimeters as units for non-parametric coordinates.
+
+mtllib tetraFace3_2.mtl
+g default
+v 0.048910 1.970612 -0.073385
+v 2.079396 -0.835804 -0.094599
+v 0.284858 0.974244 -0.489759
+v 1.192644 -0.280444 -0.499244
+vt 0.750000 0.250000
+vt 0.375000 0.466506
+vt 0.375000 0.466506
+vt 0.750000 0.250000
+vn 0.582872 0.426943 -0.691361
+vn 0.582872 0.426943 -0.691361
+vn 0.582872 0.426943 -0.691361
+vn 0.582872 0.426943 -0.691361
+s off
+g pPyramid4
+usemtl boardLayout:lambert3SG
+f 1/2/1 2/1/2 4/4/3 3/3/4

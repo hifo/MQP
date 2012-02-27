@@ -1,0 +1,17 @@
+# This file uses centimeters as units for non-parametric coordinates.
+
+mtllib tetraFace1_4.mtl
+g default
+v -0.448579 -1.076581 0.774340
+v -0.448579 -1.076581 -0.774341
+v 0.892616 -1.076581 -0.000000
+vt 0.375000 0.033494
+vt 0.375000 0.466506
+vt 0.750000 0.250000
+vn 0.000000 -1.000000 0.000000
+vn 0.000000 -1.000000 0.000000
+vn 0.000000 -1.000000 0.000000
+s off
+g polySurface11 polySurface9
+usemtl boardLayout:lambert3SG
+f 1/1/1 2/2/2 3/3/3
