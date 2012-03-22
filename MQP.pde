@@ -502,3 +502,21 @@ class VScrollbar
         return spos * ratio;
       }
     }
+    
+//API Functions
+    
+    void setFaceColor(faceNum, colorName){
+      
+    }
+    
+    void playSound(){
+      
+    }
+    
+    
+//Don't touch anything above this line
+
+    void initialization(){
+      //Use this function to initialize your game state information
+      
+    }
